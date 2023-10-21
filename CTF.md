@@ -3,13 +3,13 @@
 >126 106 106 107 125 110 164 107 122 126 160 106 
 >127 153 115 171 115 104 111 172 146 121 75 75
 
-*Step - 1* _[Convert from Octal]_   
+*Step - 1* _[Convert from Octal to Base64]_   
 ``VFFGUHtGRVpFWkMyMDIzfQ==``   
 
-*Step - 2* _[Convert from Base64]_      
+*Step - 2* _[Convert from Base64 to Text]_      
 ``TQFP{FEZEZC2023}``
 
-*Step - 3* _[Convert from Rot13]_    
+*Step - 3* _[Perform Rot13]_    
 ``GDSC{SRMRMP2023}``  - **FLAG**
 
 
@@ -21,14 +21,14 @@
 >00000030  30 34 20 31 30 38 20 39 38 20 31 31 30 20 31 31    |04 108 98 110 11|  
 >00000040  32 20 35 37                                        |2 57|  
 
-*Step - 1* _[Convert from Hexdump]_    
+*Step - 1* _[Convert from Hexdump to Decimal]_    
 ``86 70 70 71 85 72 116 108 98 110 112 117 89 50 104 108 98 110 112 57``
 
-*Step - 2* _[Convert from Decimal]_    
+*Step - 2* _[Convert from Decimal to Base64]_    
 ``VFFGUHtlbnpuY2hlbnp9``
 
-*Step - 3* _[Convert from Base64]_    
+*Step - 3* _[Convert from Base64 to Text]_    
 ``TQFP{enznchenz}``
 
-*Step - 4* _[Convert from Rot13]_    
+*Step - 4* _[Perform Rot13]_    
 ``GDSC{ramapuram}``    - **FLAG**
