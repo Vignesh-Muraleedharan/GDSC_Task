@@ -32,5 +32,3 @@
 
 *Step - 4* _[Convert from Rot13]_    
 ``GDSC{ramapuram}``    - **FLAG**
-
-#000000
