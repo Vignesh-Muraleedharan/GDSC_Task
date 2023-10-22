@@ -12,3 +12,9 @@
 00000030  30 34 20 31 30 38 20 39 38 20 31 31 30 20 31 31  |04 108 98 110 11|  
 00000040  32 20 35 37                                      |2 57|
 ```
+
+## Management
+```
+Imagine a scenario of where you are to play the role as the management lead of the club and your told to organize an event on AI
+Mention the steps that you would take as the event head to make it a successful event
+```
